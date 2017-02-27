@@ -71,7 +71,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='globitek_week4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='globitek_week4/globitek_week4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -83,7 +83,7 @@ Overall, this was a very interesting project. I learned a lot more about how ses
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Matthew Blumen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
